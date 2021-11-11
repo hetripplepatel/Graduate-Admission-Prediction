@@ -54,8 +54,3 @@ Here we will deploy Machine Learning Models production using Flask API!
     ```
     python app.py
     ```
-    and navigate to http://127.0.0.1:5000/ to see it live. On this page, a user can then interact with the application and receive predictions from the trained model.
-
-### Contributor
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/prathameshThakur)
-[![Linkedin Badge](https://img.shields.io/badge/-thakurprathamesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thakur-prathamesh/)](https://www.linkedin.com/in/thakur-prathamesh/)
